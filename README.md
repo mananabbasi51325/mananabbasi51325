@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **MERN 👨‍💻**
+
+- 🔭 I’m currently learning everything about **MERN 🧑‍💻**
 
 - ⚡ Fun fact **I love football.**
 
