@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently learning everything about **MERN 🧑‍💻**
-
 - ⚡ Fun fact **I love football.**
 
 <h3 align="left">Connect with me:</h3>
