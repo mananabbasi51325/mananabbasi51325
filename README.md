@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a dedicated Web Developer with a passion for building clean, modern, and interactive digital experiences. I started my journey in frontend development and am now expanding into full-stack development with the MERN stack. I love working with modern tools, improving UI/UX, and turning creative ideas into polished, functional products.<br><br>🔭 I’m currently working on:<br><br>Building responsive MERN stack projects & improving UI design skills.<br><br>🤝 I’m looking to collaborate on:<br><br>Frontend projects, open-source contributions, and creative web apps.<br><br>🆘 I’m looking for help with:<br><br>Mastering backend architecture and scaling full-stack apps.<br><br>🌱 I’m currently learning:<br><br>React, Node.js, Express, MongoDB & advanced JavaScript patterns.<br><br>💬 Ask me about:<br><br>Frontend development, UI/UX, React, Tailwind, and animations.<br><br>⚡ Fun fact:<br><br>I’m a huge football fan and love building things that challenge my creativity.
+I’m a dedicated Web Developer with a passion for building clean, modern, and interactive digital experiences. I started my journey in frontend development and am now expanding into full-stack development with the MERN stack. I love working with modern tools, improving UI/UX, and turning creative ideas into polished, functional products.<br><br>🔭 I’m currently working on:<br>Building responsive MERN stack projects & improving UI design skills.<br><br>🤝 I’m looking to collaborate on:<br>Frontend projects, open-source contributions, and creative web apps.<br><br>🆘 I’m looking for help with:<br>Mastering backend architecture and scaling full-stack apps.<br><br>🌱 I’m currently learning:<br>React, Node.js, Express, MongoDB & advanced JavaScript patterns.<br><br>💬 Ask me about:<br>Frontend development, UI/UX, React, Tailwind, and animations.<br><br>⚡ Fun fact:<br>I’m a huge football fan and love building things that challenge my creativity.
 
 
 ## 🌐 Socials:
@@ -12,16 +12,4 @@ I’m a dedicated Web Developer with a passion for building clean, modern, and i
 ![](https://nirzak-streak-stats.vercel.app/?user=mananabbasi51325&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mananabbasi51325&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mananabbasi51325&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mananabbasi51325&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mananabbasi51325&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
